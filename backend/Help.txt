@@ -1,0 +1,20 @@
+yarn init -y            -> iniciar projeto com a configuração padrão
+yarn add -D typescript  -> adicionando typescript como dependência de desenvolvimento
+
+
+yarn tsc --init         -> criar arquivo de configuração
+yarn tsc                -> para recompilar os arquivos de configuração
+yarn add ts-node-dev -D -> adicionando algo similar ao nodemon como dependencia de desenvolvimento
+
+
+
+
+
+
+
+
+
+//JSDocs
+/**
+ * @param req {Request}
+ */
